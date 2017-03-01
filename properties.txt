@@ -1,0 +1,11 @@
+timezone=Asia/Kolkata
+holidayfile=holidays.csv
+kairosip=91.121.168.138
+kairosport=8085
+futuremetric=india.nse.future.s4.daily
+equitymetric=india.nse.equity.s4.daily
+optionmetric=india.nse.option.s4.daily
+redisip=127.0.0.1
+redisport=6379
+redissymbolsdb=2
+rediswritedb=9
